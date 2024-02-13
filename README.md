@@ -1,9 +1,9 @@
-# how to use
-## bước 1:
+# HOW TO USE
+## step 1:
 - npm i
-## bước 2
+## step 2
 - cd src/backend/
-## bước 3
+## step 3
 - node server.js
-## bước 4 
+## step 4 
 - opent http://localhost:8080/users/
